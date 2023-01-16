@@ -11,4 +11,4 @@
 
 
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiSuMun&&show_icons=true&theme=transparent)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiSuMun&&show_icons=true&theme=transparent)
