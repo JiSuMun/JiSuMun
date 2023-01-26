@@ -16,5 +16,4 @@
 <div align=center><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/></div>
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiSuMun&&show_icons=true&theme=transparent)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mjs3827)](https://solved.ac/mjs3827/)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiSuMun&&show_icons=true&theme=transparent) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mjs3827)](https://solved.ac/mjs3827/)
