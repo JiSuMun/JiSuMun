@@ -32,18 +32,11 @@
 
 <div align=center><h3>⚙️GitHub stats⚙️</h3>
 
-<!-- <a href="s">
+<a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=JiSuMun&theme=transparent&show_icons=true" width="42%" />
 </a>
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiSuMun&exclude_repo=JiSuMun.github.io&layout=compact&theme=transparent" />
-</a></div> -->
-
-<a href="s">
-  <img src="https://github-readme-stats-ruby-one.vercel.app/api?username=JiSuMun&theme=transparent&show_icons=true" width="42%" />
-</a>
-<a href="s">
-  <img src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=JiSuMun&exclude_repo=JiSuMun.github.io&layout=compact&theme=transparent" />
 </a></div>
 
 <br/>
