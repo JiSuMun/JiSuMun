@@ -43,10 +43,10 @@
 <div align=center><h3>⚙️GitHub stats⚙️</h3>
 
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=JiSuMun&theme=transparent&show_icons=true" width="42%" />
+  <img src="https://github-readme-stats-umber-nine-65.vercel.app/api?username=JiSuMun&theme=transparent&show_icons=true" width="42%" />
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiSuMun&exclude_repo=JiSuMun.github.io&layout=compact&theme=transparent" />
+  <img src="https://github-readme-stats-umber-nine-65.vercel.app/api/top-langs/?username=JiSuMun&exclude_repo=JiSuMun.github.io&layout=compact&theme=transparent" />
 </a></div>
 
 <br/>
