@@ -40,7 +40,7 @@
 
 <br/>
 
-<div align=center><h3>⚙️GitHub stats⚙️</h3>
+<!-- <div align=center><h3>⚙️GitHub stats⚙️</h3>
 
 <a href="s">
   <img src="https://github-readme-stats-jade-beta.vercel.app/api?username=JiSuMun&theme=transparent&show_icons=true" width="42%" />
@@ -55,7 +55,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mjs3827)](https://solved.ac/mjs3827/)
 
-</div>
+</div> -->
 
 <div align=center>
 
